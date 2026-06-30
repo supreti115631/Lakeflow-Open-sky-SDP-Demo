@@ -93,3 +93,10 @@ Technical Requirements:
 - Well-commented code.
 - Scenario data stored in an editable array near the top.
 - Output only the complete HTML file without truncation.
+
+**Learning objectives**  
+Understand the Prior Authorization workflow  
+Build interactive drag-and-drop applications  
+Simulate real-world business workflows  
+Design educational user experiences  
+Create complete HTML applications using Claude
